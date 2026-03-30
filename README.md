@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvo projetos e habilidades em grupo no curso de ADS<br>Estou aprendendo HTML, CSS, C, Java, MySQL<br>Aluno do Embarque Digital<br>No tempo livre gosto de apreciar boas histórias de videogame 
+Desenvolvo projetos e habilidades em grupo no curso de ADS<br>Estou aprendendo HTML, CSS, C, JavaScript, Java, MySQL<br>Aluno do Embarque Digital<br>No tempo livre gosto de apreciar boas histórias de videogame e tocar baixo. 
 
 
 ## 🌐 Socials:
